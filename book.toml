@@ -1,4 +1,7 @@
 [book]
-title = "Lecture on Engineering Principals of Combat Modeling and Simulation"
-authors = []
-language = "en"
+title = "作战建模与仿真"
+authors = ["phdnext"]
+language = "zh-CN"
+
+[output.html]
+site-url = "/lecture-on-combat-modeling-and-simulation/"
