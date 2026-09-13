@@ -25,13 +25,14 @@ BY
 
 2026-5-10 部分修订补充。文件制作10份。 
 
-2026-9-10 添加版权声明。
+2026-9-10 添加版权声明。测试在线发布，docx -- Pandoc -- markdown chapter-xx.md -- mdBook -- Git Pages
+
 
 ## Copyright
 
 **版权声明：** 
 
-本教程的原创部分（包括结构编排、图表分析、原创评述文字）由 董晓明创作，采用CC BY 4.0协议授权，使用时请注明出处。
+本教程的原创部分（包括结构编排、图表分析、原创评述文字）由 [董晓明](mailto:phdlynx@126.com)创作，采用CC BY 4.0协议授权，使用时请注明出处。
 
 **特别说明：** 
 
@@ -40,6 +41,42 @@ BY
 
 **封面图片：**
 
-阿根廷 火地岛 乌斯怀亚灯塔
+阿根廷 火地岛 乌斯怀亚灯塔，《春光乍泄》电影场景，豆包AI生成。
 
-《春光乍泄》电影场景，豆包AI生成。
+## URL
+
+已部署GitHub Pages，访问下列链接[在线阅读](https://phdnext.github.io/lecture-on-combat-modeling-and-simulation/): 
+
+https://phdnext.github.io/lecture-on-combat-modeling-and-simulation/
+
+## Contents
+
+[第 1 章 建模与仿真概论](chapter-01.md)
+
+[第 2 章 军用建模仿真领域发展综述](chapter-02.md)
+
+[第 3 章 作战建模与模型体系](chapter-03.md)
+
+[第 4 章 体系结构框架DoDAF](chapter-04.md)
+
+[第 5 章 基于模型系统工程与SysML](chapter-05.md)
+
+[第 6 章 分布式仿真与互操作](chapter-06.md)
+
+[第 7 章 作战想定与作战概念设计](chapter-07.md)
+
+[第 8 章 数字孪生与军用仿真](chapter-08.md)
+
+[第 9 章 兵棋与智能博弈](chapter-09.md)
+
+[第 10 章 试验训练LVC仿真技术](chapter-10.md)
+
+[第 11 章 仿真数据分析与评估](chapter-11.md)
+
+[第 12 章 视景仿真与战场可视化](chapter-12.md)
+
+[第 13 章 典型作战仿真系统](chapter-13.md)
+
+[第 14 章 实战：基于HLA的仿真开发](chapter-14.md)
+
+[第 15 章 实战：Command 仿真推演](chapter-15.md)
