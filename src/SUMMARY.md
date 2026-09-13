@@ -1,6 +1,9 @@
 # Summary
 
-[前言](README.md)
+[前言](preface.md)
+
+---
+
 - [建模与仿真概论](chapter-01.md)
 - [军用建模仿真领域发展综述](chapter-02.md)
 - [作战建模与模型体系](chapter-03.md)
